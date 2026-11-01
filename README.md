@@ -1,2 +1,2 @@
 # hitchwatch
-Downloads for HitchWatch, the Windows lag and stutter finder by Anesidora Softworks LLC. https://anesidora.io/hitchwatch
+HitchWatch by [Anesidora Softworks](https://anesidora.io) | [Website, download and feedback](https://anesidora.io/hitchwatch)
